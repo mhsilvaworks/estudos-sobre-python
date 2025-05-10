@@ -1,0 +1,7 @@
+n = input ('Digite algo: ')
+print ('{} é um numero?'.format(n))
+print (n.isnumeric())
+print ('{} é um decimal?'.format(n))
+print (n.isalpha())
+print ('{} é um alfanumérico?'.format(n))
+print (n.isalnum())
