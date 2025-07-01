@@ -1,0 +1,6 @@
+times = ('Flamengo', 'Cruzeiro', 'Red Bull Bragantino', 'Palmeiras', 'Bahia', 'Fluminense', 'Patético-MG', 'Botafogo', 'Mirassol', 'Corinthians', 'Grêmio', 'Ceará', 'Vasco', 'São Paulo', 'Santos', 'Vitória', 'Internacional', 'Fortaleza', 'Juventude', 'Sport Recife')
+print(f'Lista dos times do brasileirão: {times}')
+print(f'Os times do G4: {times[0:4]}')
+print(f'Os times do Z4: {times[16:20]}')
+print(f'Os times em ordem alfabética: {sorted(times)}')
+print(f'O Cruzeiro cabulso está na {times.index('Cruzeiro')+1}ª posição')
