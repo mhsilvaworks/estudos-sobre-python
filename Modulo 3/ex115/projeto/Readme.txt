@@ -1,0 +1,1 @@
+Neste programa onde existe o menu inicial no qual você pode escolher a opção desejada, consultar os dados, informa novos, ou sair do programa, nele os erros geram respostas para auxiliar o usuário a ter o maior proveito possível. Sinta-se a vontade para copiar ou fazer alterações.
